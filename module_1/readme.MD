@@ -1,7 +1,3 @@
-# Project Name
-
-This is the readme file for the project. 
-
 ## Installation
 
 To get started, please follow these steps:
